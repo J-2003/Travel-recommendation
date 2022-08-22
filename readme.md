@@ -37,7 +37,7 @@ This project is built in Flask and python which uses html for rendering the user
 
 To run this project you should have a anaconda virtual environment or python with pip install
 * install anaconda and then simple run in the anaconda environment or
-* Install python and then install all necesarry libraies such as pandas, scikit-learn, flask using pip in global environment or personal virtual environment https://flask.palletsprojects.com/en/2.0.x/installation/
+* Install python and then install all necesarry libraies such as pandas, scikit-learn, flask using pip in global environment or personal virtual environment https://flask.palletsprojects.com/en/2.0.x/installation/ \n
         1. pip install pandas
         2. pip install -U scikit-learn
         3. pip install Flask
