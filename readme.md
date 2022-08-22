@@ -1,22 +1,21 @@
 <!-- ABOUT THE PROJECT -->
 <h1>Tourist Spot Recommendation System</h1>
 <p align="right" id="top"></p>
-### About The Project
+<h2>About The Project</h2>
 
 Recently, recommendation systems are growing rapidly in popularity and are used by many E-Commerce companies for travel and tourism. Studies indicate that the existing tourism recommendation system may not meet the user’s expectations. Tourists can find travelling and tourism information through various sources like blogs, forums, websites, and our friends and relatives help them to know about various tourist destinations. Such overflow of information lacks the focus on a person's interest.
 For the recommendation system to succeed, it must be able to provide tourism information based on the user’s preferences. We propose a recommendation system for domestic tourists in India to provide personalized tourist information to its users. The primary aim of this project work is to design an efficient and accurate system to provide recommendations about the tourist spots after analysing different tourist spots in the dataset, to the user in an application based on different constraints given by the user.
 
 
 
-Project Objective
+<h3>Project Objective</h3>
 * To collect the data from various tourism sites and prepare a dataset (attributes of dataset includes information such as tourist spot, city, state, religious value, preferred weather etc).
 * To design and implement a user interface.
 * To recommend appropriate tourist spots to the user based on the inputs provided by the user.
 
 
 
-
-### Built With
+<h4>Built With </h4>
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
