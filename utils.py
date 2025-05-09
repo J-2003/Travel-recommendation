@@ -43,7 +43,7 @@ def getSpots(df,state,label,recreation,weather,budget):
     user["Recreation"] = [recreation]
     user["Weather"] = [weather]
     df2 = pd.DataFrame(user)
-    df=df.append(df2)
+    df = pd.concat([df, df2], ignore_index=True)
     df=df.set_index("index")
     df["combined_features"] = df.apply(combine_features,axis=1)
     cv = CountVectorizer()
